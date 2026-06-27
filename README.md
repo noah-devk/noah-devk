@@ -74,6 +74,4 @@ A full-stack e-commerce website built with modern technologies.
 ## 📫 Contact Me
 
 - 📧 **Email:** khanh290616@gmail.com
-- 💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- 💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-```
+- 💻 **GitHub:** https://github.com/noah-devk
