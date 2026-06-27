@@ -10,13 +10,13 @@
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <picture style="height: 325px;">
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api?username=noah-devk&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" style="height: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=noah-devk&show_icons=true" style="height: 100%;" />
   </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-devk&layout=compact" style="height: 195px;" />
 </div>
 
 ---
