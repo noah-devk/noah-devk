@@ -1,4 +1,4 @@
-```md
+
 # 👋 Welcome to my profile!
 
 <h1 align="center" style="font-weight: 500; color: black;">
