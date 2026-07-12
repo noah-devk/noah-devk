@@ -73,6 +73,6 @@ A full-stack e-commerce website built with modern technologies.
 
 ## 📫 Contact Me
 
-- 📧 **Email:** khanh290616@gmail.com
-- 💻 **GitHub:** https://github.com/noah-devk
-- 📖 Portfolio:** https://my-infokkk.vercel.app/
+- 📧 **Email:** *khanh290616@gmail.com*
+- 💻 **GitHub:** *https://github.com/noah-devk*
+- 📖 **Portfolio:** *https://my-infokkk.vercel.app/*
